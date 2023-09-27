@@ -4,6 +4,8 @@
 
 The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, or remix p5.js sketches without needing to download or configure anything. It is designed with beginners in mind, limiting features and frills. The editor is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
 
+<!-- trivial change -->
+
 ## Community
 
 We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
